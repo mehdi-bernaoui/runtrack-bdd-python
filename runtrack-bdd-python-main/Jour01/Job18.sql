@@ -1,0 +1,1 @@
+delete from etudiants where prenom = 'john' and nom = 'doe';
